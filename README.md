@@ -1,6 +1,6 @@
-#coin-price
+# coin-price
 
-###Projeto para Realização de Requisição Utilizando Fetch API com ReactJS
+### Projeto para Realização de Requisição Utilizando Fetch API com ReactJS
 
 <p>Este projeto foi desenvolvido como parte de uma atividade que tem como objetivo demonstrar a utilização da Fetch API em conjunto com ReactJS para realizar requisições HTTP. O foco principal foi a criação de um componente React que busca dados de uma API externa (JSONPlaceholder) e os exibe de forma dinâmica na interface do usuário.</p>
 
