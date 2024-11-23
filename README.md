@@ -8,6 +8,17 @@
 
 <p>Além disso, foi implementada uma lógica para exibir um estado de carregamento enquanto os dados estão sendo obtidos, melhorando a experiência do usuário.</p>
 
+### Instruções para rodar: 
+
+<ul>
+  <li>
+    <p>npm install</p>
+  </li>
+  <li>
+    <p>npm start</p>
+  </li>
+</ul>
+
 
 
 
