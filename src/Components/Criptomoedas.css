@@ -1,0 +1,47 @@
+.container{
+    max-width: 1140px;
+    margin: auto;
+    margin-bottom: -2em;
+}
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 1rem;
+    padding: .7rem 6rem;
+    font-weight: 700;
+    color: #f0f0f0;
+    margin-top: 40px;
+    background-color: #004e92;
+    border-radius: 8px;
+    box-shadow: 0px 0px 12px #121212;
+    
+}
+
+.nome-cripto{
+    margin-left: -4rem;
+}
+
+.cripto{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 1rem;
+    margin-left: 5em;
+    padding: .7rem 2rem ;
+    
+}
+
+.position{
+    margin-left: 16em;
+}
+
+.cripto:hover{
+    transform: scale(1.04);
+    transition: .3s ease-in-out;
+    cursor: pointer;
+}
+
+img{
+    width: 30px;
+}

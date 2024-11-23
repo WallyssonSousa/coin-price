@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(to right, #000428, #004e92);
+}
+h1{
+    text-align: center;
+}
+
+.cripto-container .container{
+    max-width: 740px;
+    margin: 1rem auto;
+    padding: 1rem 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #000428;
+    box-shadow: 0px 0px 12px #121212;
+    border-radius: 8px;
+}
+
+.rank{
+    margin: .5 0;
+}
+
+.rank-btn{
+    border: 1px solid #004e92;
+    box-shadow: 0px 0px 8px #004e92;
+    background-color: #004e92;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+.info{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.info .cripto-image{
+    display: flex;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.info p{
+    padding-right: 1rem;
+}
+
+.info .cripto-preco{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

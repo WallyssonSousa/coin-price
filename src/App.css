@@ -1,0 +1,117 @@
+*{
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #f0f0f0;
+  text-decoration: none;
+}
+
+header{
+  margin-bottom: -40.1px;
+  text-align: center;
+  padding: 50px;
+  background: linear-gradient(to right, #000428, #004e92);
+}
+
+header h2 {
+  color: #87b1da;
+}
+
+header div{
+  position: absolute;
+  margin-left: 60em;
+  margin-top: -23px;
+}
+
+header div p{
+  display: inline;
+  margin: 0 20px 0 20px;
+}
+
+.button-entrar{
+  font-weight: bold;
+  color: #f0f0f0;
+  cursor: pointer;
+}
+
+.button-criar-conta{
+  font-weight: bold;
+  color: #f0f0f0;
+  background-color: #000428;
+  padding: 10px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: all 0.8s;
+}
+
+.button-criar-conta:hover{
+  color: #000428;
+  background-color: #f0f0f0;
+}
+
+.icon{
+  position: absolute;
+  margin-left: -30em;
+  margin-top: -1em;
+}
+
+.main{
+  background: linear-gradient(to right, #000428, #004e92 );
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  color: #f0f0f0;
+  text-decoration: none;
+}
+
+header{
+  margin-bottom: -40px;
+  text-align: center;
+  padding: 50px;
+  background: linear-gradient(to right, #000428, #004e92);
+}
+
+header h2 {
+  color: #87b1da;
+}
+
+header div{
+  position: absolute;
+  margin-left: 60em;
+  margin-top: -23px;
+}
+
+header div p{
+  display: inline;
+  margin: 0 20px 0 20px;
+}
+
+.button-entrar{
+  font-weight: bold;
+  color: #f0f0f0;
+  cursor: pointer;
+}
+
+.button-criar-conta{
+  font-weight: bold;
+  color: #f0f0f0;
+  background-color: #000428;
+  padding: 10px;
+  border-radius: 2px;
+  cursor: pointer;
+  transition: all 0.8s;
+}
+
+.button-criar-conta:hover{
+  color: #000428;
+  background-color: #f0f0f0;
+}
+
+.icon{
+  position: absolute;
+  margin-left: -30em;
+  margin-top: -1em;
+}
+
+main{
+  
+  background: linear-gradient(to right, #000428, #004e92);
+}

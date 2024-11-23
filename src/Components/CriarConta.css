@@ -1,0 +1,23 @@
+.Formulario-Criar{
+    width: 450px;
+    height:  450px;
+    background: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4);
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+    margin-top: 5em;
+    border-radius: 30px;
+}
+
+.btn{
+    margin-top: 120px;
+}
+
+h1{
+    margin-top: 20px;
+}
+
+.title{
+    color: #121212;
+}
+
